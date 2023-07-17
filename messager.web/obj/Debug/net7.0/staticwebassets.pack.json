@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.messager.web.props",
+      "PackagePath": "build\\messager.web.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.messager.web.props",
+      "PackagePath": "buildMultiTargeting\\messager.web.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.messager.web.props",
+      "PackagePath": "buildTransitive\\messager.web.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.messager.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

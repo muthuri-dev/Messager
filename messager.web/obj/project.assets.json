@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "messager.model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/messager.model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/messager.model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "messager.model/1.0.0": {
+      "type": "project",
+      "path": "../messager.model/messager.model.csproj",
+      "msbuildProject": "../messager.model/messager.model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "messager.model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/kennedy_muthuri/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/messager.web.csproj",
+      "projectName": "messager.web",
+      "projectPath": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/messager.web.csproj",
+      "packagesPath": "/home/kennedy_muthuri/.nuget/packages/",
+      "outputPath": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/kennedy_muthuri/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/messager.model.csproj": {
+              "projectPath": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/messager.model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.7, 7.0.7]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.107/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

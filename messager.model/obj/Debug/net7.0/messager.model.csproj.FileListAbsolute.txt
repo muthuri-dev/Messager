@@ -1,0 +1,12 @@
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/bin/Debug/net7.0/messager.model.deps.json
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/bin/Debug/net7.0/messager.model.dll
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/bin/Debug/net7.0/messager.model.pdb
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/obj/Debug/net7.0/messager.model.csproj.AssemblyReference.cache
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/obj/Debug/net7.0/messager.model.GeneratedMSBuildEditorConfig.editorconfig
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/obj/Debug/net7.0/messager.model.AssemblyInfoInputs.cache
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/obj/Debug/net7.0/messager.model.AssemblyInfo.cs
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/obj/Debug/net7.0/messager.model.csproj.CoreCompileInputs.cache
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/obj/Debug/net7.0/messager.model.dll
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/obj/Debug/net7.0/refint/messager.model.dll
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/obj/Debug/net7.0/messager.model.pdb
+/home/kennedy_muthuri/Developer/Projects/Messager/messager.model/obj/Debug/net7.0/ref/messager.model.dll
