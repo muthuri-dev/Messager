@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S/OtRcWMwPgD4Evo+aSgYgFwKCSAb0/ToorGlL0gHhw=",
+  "Hash": "v65c7EINKg5BqU5g3G+nozUM03rJGczW4WYYJVou1kk=",
   "Source": "messager.web",
   "BasePath": "_content/messager.web",
   "Mode": "Default",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.png"
+    },
+    {
+      "Identity": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/kenn.JPG",
+      "SourceId": "messager.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/",
+      "BasePath": "_content/messager.web",
+      "RelativePath": "images/kenn.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/kenn.JPG"
+    },
+    {
+      "Identity": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/wall.png",
+      "SourceId": "messager.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/",
+      "BasePath": "_content/messager.web",
+      "RelativePath": "images/wall.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/wall.png"
     }
   ]
 }

@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/kenn.JPG",
+      "PackagePath": "staticwebassets/images/kenn.JPG"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/wall.png",
+      "PackagePath": "staticwebassets/images/wall.png"
+    },
+    {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.messager.web.props",
       "PackagePath": "build\\messager.web.props"
     },
