@@ -1,2 +1,12 @@
 ﻿@inherits NavMenuBase;
-<div>Nav menu hello</div>
+
+@if(navMenus == null){
+  <div>Loading ...</div>
+}else{
+    <div>
+        @foreach (var navMenu in navMenus)
+        {
+            <img src="@navMenu.Icon" class="rounded-full h-12 w-12"/>
+        }
+    </div>
+}

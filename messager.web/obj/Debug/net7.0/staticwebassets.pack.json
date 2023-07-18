@@ -9,8 +9,56 @@
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/appear.png",
+      "PackagePath": "staticwebassets/images/appear.png"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/connect.png",
+      "PackagePath": "staticwebassets/images/connect.png"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/drive.png",
+      "PackagePath": "staticwebassets/images/drive.png"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/dropbox.png",
+      "PackagePath": "staticwebassets/images/dropbox.png"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/group.png",
+      "PackagePath": "staticwebassets/images/group.png"
+    },
+    {
       "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/kenn.JPG",
       "PackagePath": "staticwebassets/images/kenn.JPG"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/lang.png",
+      "PackagePath": "staticwebassets/images/lang.png"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/mess.svg",
+      "PackagePath": "staticwebassets/images/mess.svg"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/notif.svg",
+      "PackagePath": "staticwebassets/images/notif.svg"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/privacy.png",
+      "PackagePath": "staticwebassets/images/privacy.png"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/sett.svg",
+      "PackagePath": "staticwebassets/images/sett.svg"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/skrill.png",
+      "PackagePath": "staticwebassets/images/skrill.png"
+    },
+    {
+      "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/trello.png",
+      "PackagePath": "staticwebassets/images/trello.png"
     },
     {
       "Id": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/wwwroot/images/wall.png",
