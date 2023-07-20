@@ -1,12 +1,19 @@
 ﻿@inherits NavMenuBase;
+@inject NavigationManager NavigationManager;
 
 @if(navMenus == null){
   <div>Loading ...</div>
 }else{
-    <div>
-        @foreach (var navMenu in navMenus)
-        {
-            <img src="@navMenu.Icon" class="rounded-full h-12 w-12"/>
-        }
-    </div>
+    <main class="min-h-screen bg-slate-200 flex justify-center">
+        <div class="flex flex-col justify-around">
+            @foreach (var navMenu in navMenus)
+            {
+                <img src="@navMenu.Icon" class="rounded-full h-12 w-12 space-y-4"/>
+                <p>@navMenu.Name</p>
+            }
+        </div>
+    </main>
+}
+
+@code{
 }

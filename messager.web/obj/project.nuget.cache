@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "15Jg68sWak3k47/GvSJj3goFnm9V14LTNIgDI0wrQzBVubYE3dBxSgX0nS8ad6B/XhtUJcOzO3itP9qNyJnEOA==",
+  "dgSpecHash": "vl2qExlVv8SdCrhek0UhOz6xZQumrSwnKR/KdKTTlr1XLtDAY5dJ3FTEZWusGK9Bqv/luwsJJpY3xlRKcxAp2Q==",
   "success": true,
   "projectFilePath": "/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/messager.web.csproj",
   "expectedPackageFiles": [
-    "/home/kennedy_muthuri/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.7/microsoft.aspnetcore.app.ref.7.0.7.nupkg.sha512"
+    "/home/kennedy_muthuri/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
   ],
   "logs": []
 }

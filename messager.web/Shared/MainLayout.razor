@@ -1,24 +1,22 @@
 ﻿@inherits LayoutComponentBase
 
-@* <PageTitle>messager.web</PageTitle> *@
 
-@* <div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
-
-    <main>
-        <div class="top-row px-4">
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
-        </div>
-
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
-</div> *@
 <div class="border border-green-600 min-h-screen grid grid-cols-12">
     <div class="border border-black col-span-1"><NavMenu/></div>
-    <div class="border border-blue-600 col-span-3">@Body</div>
+    <div class="border border-blue-600 col-span-3">
+        @switch (Pages)
+        {
+            
+            
+        }
+    </div>
     <div class="border border-yellow-500 col-span-8">dialogue</div>
 </div>
+
+@code{
+    public messager.model.NavMenu[]? navMenus;
+    protected override void OnInitialized()
+    {
+        navMenus = messager.web.Data.NavData.GetNavMenu();
+    }
+}
