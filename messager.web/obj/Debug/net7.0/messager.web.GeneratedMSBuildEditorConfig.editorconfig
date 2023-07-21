@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/components/dialogueComponents/InputComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50cy9kaWFsb2d1ZUNvbXBvbmVudHMvSW5wdXRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/components/dialogueComponents/MessageBody.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50cy9kaWFsb2d1ZUNvbXBvbmVudHMvTWVzc2FnZUJvZHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/kennedy_muthuri/Developer/Projects/Messager/messager.web/Pages/Account.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
